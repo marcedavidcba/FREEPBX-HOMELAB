@@ -1,6 +1,7 @@
 This is homelab project deploying from Scratch an IP PBX. With 2 physical IP phones. 
 
 
+Watch video on youtube
 
 [![IP PBX](https://img.youtube.com/vi/dUv9KapOVoc/hqdefault.jpg)](https://www.youtube.com/watch?v=dUv9KapOVoc)
 
